@@ -18,6 +18,6 @@ public class Helloworld {
 	 *  
 	 */
 	public static void main(String[] args) {
-		System.out.println("Heloo world!");
+		System.out.println("Hello world!");
 	}
 }
